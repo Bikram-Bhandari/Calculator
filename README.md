@@ -5,7 +5,6 @@ Free code HTML CSS Javascript and Free learning web developer
 
 
 
-## Image in project
 
 - [Detailed instructions on this project](https://www.youtube.com/@ABB_Official_Music)
 
